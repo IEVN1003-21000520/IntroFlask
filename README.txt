@@ -1,7 +1,7 @@
-Nombre: Rodriguez Medina Emiliano
+Nombre: Gonzalez Luna Araceli del Rocio
 
 Grupo: IEVN1003
 
-Correo: rodriguezmedinaemiliano982@gmail.com
+Correo: rosilunna19@gmail.com
 
-Num Tel: 477 786 7679
+Num Tel: 477 4744517
